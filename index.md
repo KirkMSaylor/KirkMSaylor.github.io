@@ -10,7 +10,6 @@
 ---
 
 [Agricultural land-use/-cover change, Southeast Asia](/pdf/MA_thesis_slides_LULCchange_VN.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 

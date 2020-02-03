@@ -2,17 +2,14 @@
 
 ---
 
-### Category Name 1 
+### Previous project work - Colorado State University (M.A. Anthropology, 2019)
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Forest health landscape assessment, Rocky Mountains, USA](/pdf/FINAL_REVISED_Forest Health Landscape Assessment Study GISITR 20170921.pdf)
+<img src="/images/FINAL_REVISED_Forest Health Landscape Assessment Study GISITR 20170921.jpg"/>
 
 ---
-[Project 3 Title](http://example.com/)
+
+[Agricultural land-use/-cover change, Southeast Asia](/pdf/MA_thesis_slides_LULCchange_VN.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---

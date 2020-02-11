@@ -4,17 +4,17 @@
 @import "{{ site.theme }}";
 
 a {
- color:#6a0dad;
+ color:green;
 }
 a:hover,
 a:focus {
- color:#996600;
+ color:purple;
 }
 a small {
- color:#990033;
+ color:blue;
 }
 a:hover small {
- color:#6a0dad
+ color:grey;
 }
 
 body {
@@ -25,6 +25,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
  letter-spacing: -0.08em;
+ color:orange;
 }
 
 header h1 a {

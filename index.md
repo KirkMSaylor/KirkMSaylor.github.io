@@ -17,11 +17,10 @@
 ---
 
 ### Anthropogenic biomes of the world 
-### analysis of HYDE v. 3.2, 10,000 BC-2015 AD (pending / in-progress)
-### for comparison against Anthromes v. 2, 1700-2000 (Ellis et al. 2010)
-
-### Anthromes v.2 (1700 AD)
+### Anthromes v. 2, 1700-2000 (Ellis et al. 2010)
 <img src="/images/Anthromesv2_1700to2000_animation.gif"/>
+
+## Anthromes 12K, based on analysis of HYDE v. 3.2 (pending / in-progress)
 
 ### More documentation pending
 

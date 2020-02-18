@@ -18,7 +18,7 @@
 
 ### Anthropogenic biomes of the world 
 ### analysis of HYDE v. 3.2 (pending / in-progress) for comparison against Anthromes v. 2 (Ellis et al. 2010)
-<img src = "/Anthromes2K_1700AD/index.html">
+<img src = "/Anthromes2K_1700AD/data/1700ADAnthromesv2_0.png">(Anthromes2K_1700AD/index.html)
 
 ### More documentation pending
 

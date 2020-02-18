@@ -21,7 +21,7 @@
 ### for comparison against Anthromes v. 2, 1700-2000 (Ellis et al. 2010)
 
 ### Anthromes v.2 (1700 AD)
-[Anthromes v.2, 1700-2000 AD]</images/Anthromesv2_1700to2000_animation.gif)
+<img src="/images/Anthromesv2_1700to2000_animation.gif"/>
 
 ### More documentation pending
 

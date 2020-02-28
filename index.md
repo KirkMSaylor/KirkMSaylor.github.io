@@ -17,7 +17,7 @@
 ---
 
 ### Anthropogenic biomes of the world 
-### Anthromes v. 2, 1700-2000 (Ellis et al. 2010)
+### Anthromes v. 2, 1700-2000 (Ellis et al. 2010)(http://doi.wiley.com/10.1111/j.1466-8238.2010.00540.x)
 <img src="/images/Anthromesv2_1700to2000_animation.gif"/>
 
 ### Anthromes 12K, based on analysis of HYDE v. 3.2 (pending / in-progress)
